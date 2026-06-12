@@ -10,7 +10,8 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Flutter Demo',
+      title:
+          'Fluttering AI Demo constructing some refactoring and useless things for humanity.. Maybe.',
       theme: ThemeData(colorScheme: .fromSeed(seedColor: Colors.deepPurple)),
       home: const MyHomePage(
         title: 'Flutter demo hosting page soft colored smart AI',
