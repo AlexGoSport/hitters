@@ -14,7 +14,7 @@ class MyApp extends StatelessWidget {
           'Fluttering AI Demo constructing some refactoring and useless things for humanity.. Maybe.',
       theme: ThemeData(colorScheme: .fromSeed(seedColor: Colors.deepPurple)),
       home: const MyHomePage(
-        title: 'Flutter demo hosting page soft colored smart AI',
+        title: 'Flutter demo hosting page soft colored smart AI 2.0',
       ),
     );
   }
