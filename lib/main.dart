@@ -11,7 +11,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       title:
-          'Fluttering AI Demo constructing some refactoring and useless things for humanity.. Maybe.',
+          'Fluttering AI Demo constructing some (fix) refactoring and useless things for humanity.. Maybe.',
       theme: ThemeData(colorScheme: .fromSeed(seedColor: Colors.deepPurple)),
       home: const MyHomePage(
         title: 'Flutter demo hosting page soft colored smart AI 2.0',
