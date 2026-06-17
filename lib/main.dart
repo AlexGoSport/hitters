@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-//Ho fatto bene a testare anche questo? non saprei
+//Ho fatto bene a testare anche questo? non saprei 2.0
 void main() {
   runApp(const MyApp());
 }
